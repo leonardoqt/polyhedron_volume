@@ -1,4 +1,4 @@
-#include <cstring>
+#include <string>
 #include <fstream>
 #ifndef MY_VEC
 #define MY_VEC
